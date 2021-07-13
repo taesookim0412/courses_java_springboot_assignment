@@ -1,0 +1,39 @@
+#wrapper {
+    height: 800px;
+    width: 100%;
+    margin: 0px auto;
+    text-align: center;
+}
+
+#topnav {
+    height: 150px;
+    width: 100%;
+    border: 3px solid black;
+    display: flex;
+    justify-content: space-between;
+} 
+
+.navpart {
+    padding-top: 35px;
+    height: 100%;
+    width: 50%;
+}
+
+#flexbox{ 
+    margin-top: 25px;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 24px;
+}
+
+.box {
+    height: 100%;
+    width: 25%;
+}
+
+.bigbox{
+    height: 60%;
+    width: 75%;
+}
